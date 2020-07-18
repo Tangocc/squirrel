@@ -1,6 +1,6 @@
-## 基础知识
+# 基础知识
 
-### 语言
+## 语言
 
 ### Go语言
  
@@ -21,7 +21,7 @@
   - go语言新特性：
      - https://studygolang.com/articles/26529?fr=sidebar
       
-### php
+### php语言
  
   - 字符串操作函数
    - strlen
@@ -40,13 +40,16 @@
   - usort ( array &$array , callable $value_compare_func ) : bool
   - array_shift ( array &$array ) : mixed
   - array_unshift()
+  
 - array实现原理
 - php请求处理流程
 - php如何实现弱类型
     
      
- 
 ### 数据结构与算法
+
+#### 数据结构
+
  - 树
      - 前序/中序/后序遍历(递归/非递归)
      - 树高度
@@ -60,11 +63,18 @@
      - 归并排序
      - 冒泡排序
      - 堆排序
-- 查找
+ - 查找
      - 二分查找
      - KMP算法
+#### 算法
+ - 最大回文子串
+ - 最大递增序列
 
 ### 计算机操作系统
+  - linux系统
+    - top / netstat / ps / lsof
+    - awk / sed 
+    - 文件系统原理
   - CPU管理
   - 内存管理
   - 进程管理
