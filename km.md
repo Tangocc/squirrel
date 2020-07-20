@@ -110,6 +110,7 @@
  - 主从同步原理：
    - https://www.jianshu.com/p/5147a6825322
  - psync原理
+   - https://zhuanlan.zhihu.com/p/150960398
  - 遍历key值: SCAN命令
  - 哨兵和集群模式的区别：
    - 哨兵模式解决高可用故障发现与故障转移。集群则是实现分区扩展内存
