@@ -96,7 +96,8 @@
      - 常用状态码
      - cookie/session
      - https原理
-     - http2特性: 长连接、二进制流压缩、多路复用、服务端推送
+     - http2特性: https://www.jianshu.com/p/67c541a421f9
+     - 长连接、二进制流压缩、多路复用、服务端推送
      
 ### 数据库
  - 事务隔离级别
