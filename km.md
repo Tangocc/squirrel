@@ -97,7 +97,7 @@
      - cookie/session
      - https原理
      - http2特性: https://www.jianshu.com/p/67c541a421f9
-     - 长连接、二进制流压缩、多路复用、服务端推送
+     - 双向流、消息头压缩、单 TCP 的多路复用、服务端推送等特性
      
 ### 数据库
  - 事务隔离级别
