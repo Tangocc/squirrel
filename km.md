@@ -130,7 +130,7 @@
  - AoF和RDB的区别
  - redis key值过期策略和淘汰策略
  - redis分布式锁注意事项
- - watch原理与事务机制
+ - watch原理与事务机制及乐观锁
  - 发布订阅模式
     - https://redisbook.readthedocs.io/en/latest/feature/pubsub.html
  - 主从同步原理：
