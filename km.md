@@ -217,3 +217,7 @@
   - Raft算法：http://thesecretlivesofdata.com/raft/
       - 三种角色： Leader /Follower / Candidate
       - 两个阶段：选主、日志同步
+
+
+参考文档：
+https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#%E4%BA%8B%E5%8A%A1-acid-%E7%89%B9%E6%80%A7
