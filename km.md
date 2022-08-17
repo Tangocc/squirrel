@@ -12,6 +12,7 @@
      - https://segmentfault.com/a/1190000016824319
   - channel原理
   - sync包
+  - go泛型
   - strings包
   - sync.Map原理
   - map扩容机制：
