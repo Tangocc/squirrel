@@ -22,6 +22,10 @@
      - https://zhuanlan.zhihu.com/p/74853110
   - context包
      - https://zhuanlan.zhihu.com/p/88915174
+     - 作用：提供一种函数/协程 数据传递/通信、超时、取消、消息通知等机制
+     - 基础类型： context.TODO()/context.Background()
+     - 接口：Deadline/Done/Err/Value
+     - WithCancel/WithTimeout/WithValue/WithDeadline
   - go语言新特性：
      - https://studygolang.com/articles/26529?fr=sidebar
   - go逃逸分析：
