@@ -10,7 +10,7 @@
   - 协程调度模型GPM：
      - https://studygolang.com/articles/20991
      - https://segmentfault.com/a/1190000016824319
-  - channel原理
+  - channel原理 https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-channel/
   - sync包
   - go泛型
   - strings包
